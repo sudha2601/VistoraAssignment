@@ -1,5 +1,6 @@
 
 🛠️ Vistora Project – Metadata Crawler and Model Generator
+
 This project is a Spring Boot-based metadata crawler that connects to an SQL database, extracts metadata like tables, columns, primary keys, foreign keys, and indexes, and auto-generates corresponding Java model classes using REST APIs.
 
 📌 Features
